@@ -6,6 +6,7 @@ packages = [
     "dj-celery-panel",
     "dj-urls-panel",
     "dj-signals-panel",
+    "dj-doom-panel",
 ]
 
 [dashboard]
