@@ -10,6 +10,8 @@ and deployed on a daily basis.
 This project is meant to hold stats for any panel/plugin in the DCR ecosystem. Pull requests for tracking existing third
 party panels are welcome (see below)
 
+![dashboard](https://raw.githubusercontent.com/django-control-room/dcr-stats/main/images/dashboard.png)
+
 
 ## Adding packages
 
